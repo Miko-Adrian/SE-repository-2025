@@ -26,4 +26,4 @@ if st.button("Say hello"):
 st.link_button("Go to wiki", "https://rogueblox.fandom.com/wiki/Classes")
 
 VIDEO_URL = "https://www.youtube.com/watch?v=5Q1qqvMALcM"
-
+st.video
