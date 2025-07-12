@@ -23,4 +23,4 @@ st.line_chart(chart_data)
 if st.button("Say hello"):
     st.write("Why hello there")
 
-st.link_button("Go to gallery", "https://rogueblox.fandom.com/wiki/Classes")
+st.link_button("Go to wiki", "https://rogueblox.fandom.com/wiki/Classes")
